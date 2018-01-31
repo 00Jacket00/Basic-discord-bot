@@ -1,0 +1,17 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "Jacket Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacket",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "node-googl": "0.0.2",
+    "request": "^2.83.0",
+    "ytdl-core": "^0.18.7"
+  }
+}
